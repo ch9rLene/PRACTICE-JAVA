@@ -2,7 +2,7 @@ public class Store {
 
     // new method: constructor!
     public Store() {
-    System.out.println("I am inside the constructor method.");
+    System.out.println("I am inside the constructor method.hehe.");
     }
     
     // main method is where we create instances!
